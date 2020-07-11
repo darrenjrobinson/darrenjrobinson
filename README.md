@@ -2,7 +2,7 @@
 <a href="https://twitter.com/darrenjrobinson"><img height="16" src="http://twitter.com/favicon.ico"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darrenjrobinson"><img height="16" src="https://www.linkedin.com/favicon.ico"></a>&nbsp;&nbsp;
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson"><img height="16" src="https://i2.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/11/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi-1.png?h=16&ssl=1"></a>&nbsp;&nbsp;
-<a href="https://darrenjrobinson.com"><img height="16" src="https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=16"></a>&nbsp;&nbsp;
+<a href="https://blog.darrenjrobinson.com"><img height="16" src="https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=16"></a>&nbsp;&nbsp;
 <a href="https://www.powershellgallery.com/profiles/darrenjrobinson"><img height="16" src="https://www.powershellgallery.com/favicon.ico"></a>&nbsp;&nbsp;
 
 I'm a [Principal Consultant](https://www.linkedin.com/in/darrenjrobinson) and the Principal Identity & Access Management Architect at [Telstra Purple](https://purple.telstra.com.au/) (previously Kloud Solutions) in Sydney, Australia specializing in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.

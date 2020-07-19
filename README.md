@@ -7,7 +7,7 @@
 
 I'm a [Principal Consultant](https://www.linkedin.com/in/darrenjrobinson) and the Principal Identity & Access Management Architect at [Telstra Purple](https://purple.telstra.com.au/) (previously Kloud Solutions) in Sydney, Australia specializing in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.
 
-Since 2017 I've been a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson) (Enterprise Mobility - Identity & Access Management).
+Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20microsoft-mvp-blue) [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson) (Enterprise Mobility - Identity & Access Management).
 
 I [write about](https://darrenjrobinson.com) many of my bespoke integration solutions that usually utilise my favourite scripting language [PowerShell](https://www.powershellgallery.com/profiles/darrenjrobinson).
 </p>

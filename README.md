@@ -26,6 +26,11 @@ A PowerShell Module enabling simple methods for accessing the SailPoint Identity
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/SailPointIdentityNow.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/SailPointIdentityNow) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/SailPointIdentityNow.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/SailPointIdentityNow)
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [H2O AI PowerShell Module](https://blog.darrenjrobinson.com/h2o-ai-powershell-module/)
+
+A PowerShell Orchestration Module for H2O AI Open Source Platform.
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/H2OAI.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/H2OAI) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/H2OAI.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/H2OAI)
 
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [X509 Certificate Details PowerShell Module](https://blog.darrenjrobinson.com/x509details-powershell-module-for-decoding-x509-certificates-with-time-to-certificate-expiry/)
 
@@ -33,7 +38,6 @@ Decode an X509 Certificate and present it as a PowerShell Object.
 Certificate PowerShell Object details updated to include the X509 Certificate time to expiry (timeToExpiry).
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/X509Details.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/X509Details) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/X509Details.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/X509Details)
-
 
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [JSON Web Token Details PowerShell Module](https://blog.darrenjrobinson.com/jwtdetails-powershell-module-for-decoding-jwt-access-tokens-with-readable-token-expiry-time/)
 
@@ -59,7 +63,6 @@ The Lithnet MIM RMA PoshBot module for the Lithnet RMA PowerShell Module for orc
 The Lithnet MIIS Automation PoshBot module for the Lithnet MIIS Automation PowerShell Module for orchestration of the Microsoft Identity Manager Syncrhonnisation Server
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/PoshBot.LithnetMiisAutomation.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/PoshBot.LithnetMiisAutomation) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PoshBot.LithnetMiisAutomation.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/PoshBot.LithnetMiisAutomation)
-
 
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [React Stock Charts for UniversalDashboard PowerShell Module](https://blog.darrenjrobinson.com/react-stockcharts-for-powershell-universal-dashboard/)
 

@@ -32,6 +32,12 @@ A PowerShell Orchestration Module for H2O AI Open Source Platform.
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/H2OAI.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/H2OAI) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/H2OAI.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/H2OAI)
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Up Bank PowerShell Module](https://blog.darrenjrobinson.com/up-bank-powershell-module/)
+
+A PowerShell Module enabling simple methods for accessing your Up Bank Account.
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/UpBank.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/UpBank) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/UpBank.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/UpBank)
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [X509 Certificate Details PowerShell Module](https://blog.darrenjrobinson.com/x509details-powershell-module-for-decoding-x509-certificates-with-time-to-certificate-expiry/)
 
 Decode an X509 Certificate and present it as a PowerShell Object.

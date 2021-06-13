@@ -32,6 +32,12 @@ A PowerShell Module enabling simple methods for accessing your 1Password Vault.
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/1Pwd.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/1Pwd) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/1Pwd.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/1Pwd)
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [AzureAD Tenant ID](https://blog.darrenjrobinson.com/)
+
+PowerShell module to lookup a domain name and return the associated Azure Active Directory Tenant ID.
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/AzureADTenantID.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/AzureADTenantID) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/AzureADTenantID.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/AzureADTenantID)
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [H2O AI PowerShell Module](https://blog.darrenjrobinson.com/h2o-ai-powershell-module/)
 
 A PowerShell Orchestration Module for H2O AI Open Source Platform.

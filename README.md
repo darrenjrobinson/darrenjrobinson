@@ -38,6 +38,12 @@ PowerShell module to lookup a domain name and return the associated Azure Active
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/AzureADTenantID.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/AzureADTenantID) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/AzureADTenantID.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/AzureADTenantID)
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Azure AD User Account Federation PowerShell Module](https://blog.darrenjrobinson.com/azure-ad-user-account-federation-report/)
+
+Lookup an Azure Active Directory Member User Account and return Tenants where there's a related B2B Guest User Account.
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/AzureADUserFederation.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/AzureADUserFederation) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/AzureADUserFederation.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/AzureADUserFederation)
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [H2O AI PowerShell Module](https://blog.darrenjrobinson.com/h2o-ai-powershell-module/)
 
 A PowerShell Orchestration Module for H2O AI Open Source Platform.

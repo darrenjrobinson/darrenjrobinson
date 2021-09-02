@@ -32,7 +32,7 @@ A PowerShell Module enabling simple methods for accessing your 1Password Vault.
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/1Pwd.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/1Pwd) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/1Pwd.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/1Pwd)
 
-## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [AzureAD Tenant ID](https://blog.darrenjrobinson.com/)
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [AzureAD Tenant ID](https://blog.darrenjrobinson.com/powershell-snippets-vol-4/)
 
 PowerShell module to lookup a domain name and return the associated Azure Active Directory Tenant ID.
 

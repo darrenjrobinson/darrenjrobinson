@@ -5,7 +5,7 @@
 <a href="https://blog.darrenjrobinson.com"><img height="32" src="https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=32"></a>&nbsp;&nbsp;
 <a href="https://www.powershellgallery.com/profiles/darrenjrobinson"><img height="32" src="https://www.powershellgallery.com/favicon.ico"></a>&nbsp;&nbsp;
 
-I'm a [Principal Consultant](https://www.linkedin.com/in/darrenjrobinson) and the Principal Identity & Access Management Architect at [Telstra Purple](https://purple.telstra.com.au/) (previously Kloud Solutions) in Sydney, Australia specializing in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.
+I'm a [Principal Consultant](https://www.linkedin.com/in/darrenjrobinson) and Principal Identity & Access Management Architect in Sydney, Australia specializing in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.
 
 Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20microsoft-mvp-blue) [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson) (Enterprise Mobility - Identity & Access Management).
 
@@ -96,6 +96,4 @@ The Lithnet MIIS Automation PoshBot module for the Lithnet MIIS Automation Power
 React-Stockcharts for [Universal Dashboard](https://ironmansoftware.com/powershell-universal-dashboard/)
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/UniversalDashboard.UDFinancialChart.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/UniversalDashboard.UDFinancialChart) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/UniversalDashboard.UDFinancialChart.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/UniversalDashboard.UDFinancialChart)
-
-
 

@@ -47,6 +47,13 @@ Lookup an Azure Active Directory Member User Account and return Tenants where th
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/AzureADUserFederation.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/AzureADUserFederation) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/AzureADUserFederation.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/AzureADUserFederation)
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Generating PKCE codes with PowerShell Module](https://blog.darrenjrobinson.com/generating-pkce-codes-with-powershell/)
+
+Generate OAuth 2.0 Proof Key for Code Exchange (PKCE) 'code_challenge' and 'code_verifier' for use with an OAuth2 Authorization Code Grant flow. 
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/PKCE.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/PKCE) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PKCE.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/PKCE)
+
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [H2O AI PowerShell Module](https://blog.darrenjrobinson.com/h2o-ai-powershell-module/)
 
 A PowerShell Orchestration Module for H2O AI Open Source Platform.

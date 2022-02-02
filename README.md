@@ -20,6 +20,10 @@ I [write about](https://darrenjrobinson.com) many of my bespoke integration solu
 
 ![](http://github.com/favicon.ico) [MS USER](https://github.com/darrenjrobinson/Microsoft-User-Security-Evaluation-Reporter) - Evaluating and Reporting on Azure Active Directory/Active Directory Users Security Posture
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Microsoft Decentralized Identity Hackathon - DID of Things](https://blog.darrenjrobinson.com/decentralized-identity-of-things/)
+
+![](http://github.com/favicon.ico) [DIDoT](https://github.com/darrenjrobinson/DIDoT) - Decentralized Identity of Things. Allergen management in food shopping.
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [SailPoint IdentityNow PowerShell Module](https://blog.darrenjrobinson.com/sailpoint-identitynow-powershell-module/)
 
 A PowerShell Module enabling simple methods for accessing the SailPoint IdentityNow REST API's.

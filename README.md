@@ -4,12 +4,15 @@
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson"><img height="32" src="https://i2.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/11/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi-1.png?h=32&ssl=1"></a>&nbsp;&nbsp;
 <a href="https://blog.darrenjrobinson.com"><img height="32" src="https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=32"></a>&nbsp;&nbsp;
 <a href="https://www.powershellgallery.com/profiles/darrenjrobinson"><img height="32" src="https://www.powershellgallery.com/favicon.ico"></a>&nbsp;&nbsp;
-
+ 
 I'm a [Principal Consultant](https://www.linkedin.com/in/darrenjrobinson) and Principal Identity & Access Management Architect in Sydney, Australia specializing in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.
 
 Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20microsoft-mvp-blue) [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson) (Enterprise Mobility - Identity & Access Management).
 
 I [write about](https://darrenjrobinson.com) many of my bespoke integration solutions that usually utilise my favourite scripting language [PowerShell](https://www.powershellgallery.com/profiles/darrenjrobinson).
+
+ [<center><img src="https://user-images.githubusercontent.com/384733/153096213-926ea4b2-524c-4ceb-b1d7-b81a14ff7a29.png" width="128" align=center/></center>](https://www.credly.com/badges/7464e40f-5e0a-4ef1-a3db-b47dc77aa4e7/public_url)
+
 </p>
 
 --- 

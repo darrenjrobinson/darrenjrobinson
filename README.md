@@ -11,8 +11,9 @@ Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20micros
 
 I [write about](https://darrenjrobinson.com) many of my bespoke integration solutions that usually utilise my favourite scripting language [PowerShell](https://www.powershellgallery.com/profiles/darrenjrobinson).
 
- [<center><img src="https://user-images.githubusercontent.com/384733/153096213-926ea4b2-524c-4ceb-b1d7-b81a14ff7a29.png" width="128" align=center/></center>](https://www.credly.com/badges/7464e40f-5e0a-4ef1-a3db-b47dc77aa4e7/public_url)
-
+ [<center><img src="https://user-images.githubusercontent.com/384733/153096213-926ea4b2-524c-4ceb-b1d7-b81a14ff7a29.png" width="128" align=center/></center>](https://www.credly.com/badges/7464e40f-5e0a-4ef1-a3db-b47dc77aa4e7/public_url) 
+ [<center><img src="https://github.com/darrenjrobinson/darrenjrobinson/blob/master/MicrosoftHackathonAzureIAMQ2-2022.png" width="128" align=center/></center>](https://www.credly.com/badges/898e7077-6e9d-4468-aeb7-b695e4cc7f2e/public_url)
+ 
 </p>
 
 --- 

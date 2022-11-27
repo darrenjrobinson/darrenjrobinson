@@ -20,6 +20,20 @@ I [write about](https://darrenjrobinson.com) many of my bespoke integration solu
 
 ## Recent Open Source Projects
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Decentralized IDentity Document Searcher](https://blog.darrenjrobinson.com/decentralized-identity-searcher-powershell-module/)
+
+![](http://github.com/favicon.ico) [DID Searcher](https://github.com/darrenjrobinson/DIDSearcher) - PowerShell Module for searching the ION and Web networks for DID documents to discover their keys and endpoints
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/DIDSearcher.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/DIDSearcher) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/DIDSearcher.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/DIDSearcher)
+
+
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Convert to and from Unix & Windows Timestamps](https://blog.darrenjrobinson.com/convert-windows-and-unix-epoch-times-with-powershell/)
+
+![](http://github.com/favicon.ico) [DID Searcher](https://github.com/darrenjrobinson/ConvertTime) - PowerShell Module to convert to and from a PowerShell DateTime object and Unix & Windows timestamps
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/ConvertTime.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/ConvertTime) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ConvertTime.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/ConvertTime)
+
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Microsoft User Security Evaluation Reporter (MS USER)](https://blog.darrenjrobinson.com/azure-ad-active-directory-user-security-evaluation-reporter/)
 
 ![](http://github.com/favicon.ico) [MS USER](https://github.com/darrenjrobinson/Microsoft-User-Security-Evaluation-Reporter) - Evaluating and Reporting on Azure Active Directory/Active Directory Users Security Posture

@@ -5,9 +5,9 @@
 <a href="https://blog.darrenjrobinson.com"><img height="32" src="https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=32"></a>&nbsp;&nbsp;
 <a href="https://www.powershellgallery.com/profiles/darrenjrobinson"><img height="32" src="https://www.powershellgallery.com/favicon.ico"></a>&nbsp;&nbsp;
  
-I'm a [Principal Consultant](https://www.linkedin.com/in/darrenjrobinson) and Principal Identity & Access Management Architect in Sydney, Australia specializing in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.
+I'm a [Global Security Domain Lead](https://www.linkedin.com/in/darrenjrobinson) for Identity & Access Management for a Global SI and based in Sydney, Australia. Over 30 years experience in technical sales, holistic strategy, detailed design and implementation of On Premise, Hybrid and Cloud Identity & Access Management solutions across all industry verticals.
 
-Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20microsoft-mvp-blue) [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson) (Enterprise Mobility - Identity & Access Management).
+Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20microsoft-mvp-blue) [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson) (Security (fka Enterprise Mobility) - Identity & Access Management).
 
 I [write about](https://darrenjrobinson.com) many of my bespoke integration solutions that usually utilise my favourite scripting language [PowerShell](https://www.powershellgallery.com/profiles/darrenjrobinson).
 

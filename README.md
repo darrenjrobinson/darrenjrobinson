@@ -29,7 +29,7 @@ I [write about](https://darrenjrobinson.com) many of my bespoke integration solu
 
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Convert to and from Unix & Windows Timestamps](https://blog.darrenjrobinson.com/convert-windows-and-unix-epoch-times-with-powershell/)
 
-![](http://github.com/favicon.ico) [DID Searcher](https://github.com/darrenjrobinson/ConvertTime) - PowerShell Module to convert to and from a PowerShell DateTime object and Unix & Windows timestamps
+![](http://github.com/favicon.ico) [Convert Time](https://github.com/darrenjrobinson/ConvertTime) - PowerShell Module to convert to and from a PowerShell DateTime object and Unix & Windows timestamps
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/ConvertTime.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/ConvertTime) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ConvertTime.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/ConvertTime)
 

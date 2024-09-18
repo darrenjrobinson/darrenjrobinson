@@ -12,6 +12,7 @@ Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20micros
 I [write about](https://darrenjrobinson.com) many of my bespoke integration solutions that usually utilise my favourite scripting language [PowerShell](https://www.powershellgallery.com/profiles/darrenjrobinson).
 
 [<center><img src="https://images.credly.com/size/340x340/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png" width="128" align=center/></center>](https://www.credly.com/badges/3929ac3c-897f-4e38-a960-7e9b16845887/public_url)
+[<center><img src="https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png" width="128" align=center/></center>](https://www.credly.com/badges/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/public_url)
 [<center><img src="https://images.credly.com/size/340x340/images/6968fca0-7c79-4cdb-938f-d7035e5dd800/image.png" width="128" align=center/></center>](https://www.credly.com/badges/7464e40f-5e0a-4ef1-a3db-b47dc77aa4e7/public_url)
 [<center><img src="https://github.com/darrenjrobinson/darrenjrobinson/blob/master/MicrosoftHackathonAzureIAMQ2-2022.png" width="128" align=center/></center>](https://www.credly.com/badges/898e7077-6e9d-4468-aeb7-b695e4cc7f2e/public_url)
 [<center><img src="https://images.credly.com/size/340x340/images/265a75b6-fe06-4168-9bea-8f0d7c70fbb3/image.png" width="128" align=center/></center>](https://www.credly.com/badges/cf478c5c-6631-466f-8857-edbf186b1ee0/public_url)

@@ -24,6 +24,21 @@ I [write about](https://darrenjrobinson.com) many of my bespoke integration solu
 
 ## Recent Open Source Projects
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Dayforce PowerShell Module](https://github.com/darrenjrobinson/Dayforce)
+
+![](http://github.com/favicon.ico) [Dayforce PowerShell Module](https://github.com/darrenjrobinson/Dayforce) - PowerShell Module to query Employee data from Dayforce. 
+Cmdlets to update Dayforce for business email/contact info and Federated Single Sign On in IAM scenarios.
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/Dayforce.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/Dayforce) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/Dayforce.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/Dayforce)
+
+
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Passkey Provider AAGUIDs PowerShell Module](https://blog.darrenjrobinson.com/passkey-provider-aaguids-powershell-module/)
+
+![](http://github.com/favicon.ico) [Passkey Provider AAGUIDs PowerShell Module](https://github.com/darrenjrobinson/PasskeyProviderAAGUIDs) - PowerShell Module to programatically manage Passkey Providers AAGUID's.
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/PasskeyProviderAAGUIDs.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/PasskeyProviderAAGUIDs) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PasskeyProviderAAGUIDs.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/PasskeyProviderAAGUIDs)
+
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Decentralized IDentity Document Searcher](https://blog.darrenjrobinson.com/decentralized-identity-searcher-powershell-module/)
 
 ![](http://github.com/favicon.ico) [DID Searcher](https://github.com/darrenjrobinson/DIDSearcher) - PowerShell Module for searching the ION and Web networks for DID documents to discover their keys and endpoints

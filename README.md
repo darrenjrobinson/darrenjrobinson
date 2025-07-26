@@ -24,6 +24,13 @@ I [write about](https://darrenjrobinson.com) many of my bespoke integration solu
 
 ## Recent Open Source Projects
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [EntraPulse](https://blog.darrenjrobinson.com/entrapulse-your-ai-powered-gateway-to-microsoft-graph-docs)
+
+![](http://github.com/favicon.ico) [EntraPulse](https://github.com/darrenjrobinson/EntraPulseLite) EntraPulse a desktop app that transforms how you interact with your Entra Tenant & understand Entra with Microsoft Docs & Learn.
+
+![Total Downloads](https://img.shields.io/github/downloads/darrenjrobinson/EntraPulseLite/total?style=for-the-badge&color=blue&logo=github)
+
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Dayforce PowerShell Module](https://github.com/darrenjrobinson/Dayforce)
 
 ![](http://github.com/favicon.ico) [Dayforce PowerShell Module](https://github.com/darrenjrobinson/Dayforce) - PowerShell Module to query Employee data from Dayforce. 

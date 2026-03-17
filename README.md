@@ -25,6 +25,12 @@ I [write about](https://darrenjrobinson.com) many of my bespoke integration solu
 
 ## Recent Open Source Projects
 
+## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [Entra News MCP](https://blog.darrenjrobinson.com/entra-news-mcp-server)
+
+[EntraNewsMCPServer](https://github.com/darrenjrobinson/EntraNewsMCPServer) – An MCP server that turns Merill & Joshua’s Entra News newsletter into a searchable knowledge base you can query from Claude Desktop, Cursor, Copilot Studio and other MCP‑capable hosts.
+
+![npm package](https://img.shields.io/npm/dt/entra-news-mcp)  
+
 ## ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=32%2C32&ssl=1) [EntraPulse](https://blog.darrenjrobinson.com/entrapulse-your-ai-powered-gateway-to-microsoft-graph-docs)
 
 ![](http://github.com/favicon.ico) [EntraPulse](https://github.com/darrenjrobinson/EntraPulseLite) EntraPulse a desktop app that transforms how you interact with your Entra Tenant & understand Entra with Microsoft Docs & Learn.

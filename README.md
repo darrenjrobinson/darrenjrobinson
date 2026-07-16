@@ -11,6 +11,7 @@ Since 2017 I've been a ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20micros
 
 I [write about](https://darrenjrobinson.com) many of my bespoke integration solutions that usually utilise my favourite scripting language [PowerShell](https://www.powershellgallery.com/profiles/darrenjrobinson).
 
+[<center><img src="https://images.credly.com/size/340x340/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob" width="128" align=center/></center>](https://www.credly.com/badges/c4da2c74-dd74-4a97-a433-d8c21f06ca65/public_url)
 [<center><img src="https://images.credly.com/size/340x340/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png" width="128" align=center/></center>](https://www.credly.com/badges/3929ac3c-897f-4e38-a960-7e9b16845887/public_url)
 [<center><img src="https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png" width="128" align=center/></center>](https://www.credly.com/badges/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/public_url)
 [<center><img src="https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob" width="128" align=center/></center>](https://www.credly.com/badges/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob)

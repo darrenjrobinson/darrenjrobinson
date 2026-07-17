@@ -1,8 +1,10 @@
 <div align="center">
 
-# Darren Robinson
+# Darren "Doc" Robinson
 
-**Identity & Access Management Architect · Microsoft MVP (Security) · Sydney, Australia**
+**Identity & Access Management Architect** 
+
+**Microsoft MVP (Security - Identity & Access | Azure - PowerShell) · Sydney, Australia**
 
 *Bespoke Identity and Access Management solutions — Microsoft Entra, SailPoint, and everything they connect to.*
 
@@ -14,7 +16,7 @@
 [![PowerShell Gallery](https://img.shields.io/badge/PowerShell_Gallery-darrenjrobinson-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://www.powershellgallery.com/profiles/darrenjrobinson)
 [![npm](https://img.shields.io/badge/npm-darrenjrobinson-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~darrenjrobinson)
 
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft_MVP-Security_·_2017–present-blue?style=flat-square&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft_MVP-Security_Identity_&_Access_·_2017–present-blue?style=flat-square&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5002871?fullName=Darren%20Robinson)
 [![PowerShell Gallery Downloads](https://img.shields.io/badge/PowerShell_Gallery-2.9M%2B_total_downloads-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://www.powershellgallery.com/profiles/darrenjrobinson)
 [![MCP Servers](https://img.shields.io/badge/MCP_Servers-6_npm_packages-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~darrenjrobinson)
 
@@ -24,7 +26,7 @@
 
 With 30+ years in Identity & Access Management, I design and build enterprise identity solutions across Microsoft Entra, SailPoint, and hybrid environments — and open-source the tooling along the way. I write about the bespoke integrations, identity deep-dives, and AI × Identity experiments at [blog.darrenjrobinson.com](https://blog.darrenjrobinson.com).
 
-## 🔭 Current Focus — AI × Identity
+## 🔭 Current Focus — AI - Agents × Identity x PowerShell
 
 Bringing Model Context Protocol (MCP), LLMs, and agentic tooling to the identity ecosystem.
 
